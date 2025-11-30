@@ -1,0 +1,6 @@
+name: "Wolf Enhancement"
+overview: "Safety Feature enhancements for Lane Assist."
+description: "This plugin enhances the existing Lane Assist features by adding dynamic obstacle detection and improved action responses to ensure safer and more reliable driving."
+image_url: "https://images.pexels.com/photos/18053819/pexels-photo-18053819/free-photo-of-scenic-landscape-at-sunrise.jpeg"
+version: "1.0.0"
+author: "Wuf"
